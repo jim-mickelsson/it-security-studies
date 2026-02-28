@@ -12,10 +12,5 @@ My goal is to document my journey from fundamental concepts to advanced architec
 ### 1. [Network Engineering & Infrastructure](./network-engineering)
 Focuses on foundational routing, switching, and secure network design.
 
-## Global Tech Stack & Tools
-* **Development:** Python, Bash
-* **Environment:** Linux (Ubuntu), Windows
-* **Workflow:** Git, VS Code, AI-Assisted Development
-
 ## Contact
 * [LinkedIn Profile](https://www.linkedin.com/in/jimmickelsson/)
