@@ -1,12 +1,12 @@
 # Enterprise Network Evolution Project
-![Status](https://img.shields.io/badge/Status-Phase_3_Complete-success)
-![Focus](https://img.shields.io/badge/Focus-Security_Hardening-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Focus](https://img.shields.io/badge/Focus-Network_Architecture-blue)
 
 ## Project Overview
-This repository documents my ongoing study of enterprise network architecture. Over the coming weeks, I will be building a multi-site network simulation in Cisco Packet Tracer, moving from basic switching to advanced security.
+This repository documents a multi-site enterprise network simulation built in Cisco Packet Tracer. The project demonstrates a progression from basic local area network switching to wide area network routing and secure internet edge connectivity.
 
 ## Project Roadmap
-I am following an iterative approach to simulate real-world network growth.
+The simulation was built using an iterative approach to model real-world network expansion.
 
 ### Completed Milestones
 - [x] **Phase 1: The Foundation**
@@ -24,29 +24,18 @@ I am following an iterative approach to simulate real-world network growth.
   - [x] NAT Overload (PAT) Implementation
   - [x] Default Route Propagation
 
-### Upcoming
-- [ ] **Phase 4: Security Hardening**
-  - [ ] Device Hardening (SSH, User Accounts, Banners)
-  - [ ] Layer 2 Security (Port Security, BPDU Guard)
-  - [ ] Layer 3 Security (Extended ACLs)
-
 ## Technologies Practiced
 * **Switching:** VLANs, 802.1Q, STP
-* **Routing:** OSPF, Static Routes, NAT/PAT
-* **Security:** ACLs, Port Security, SSH
-
-## Learning Resources & Methodology
-This project serves as a practical application of concepts I am actively studying. My workflow involves integrating insights from the following sources to solve architectural challenges:
+* **Routing:** OSPF, Static Routes, NAT/PAT, Inter-VLAN Routing
 
 ## Learning Resources & Methodology
 This project serves as a practical application of concepts I am actively studying. My workflow involves integrating insights from the following sources to solve architectural challenges:
 
 ### Academic Coursework
-
 * **Network Technology (Nätverksteknik):** Core module of the *IT Security Engineer* program at Yrkeshögskolan i Enköping.
-  * *Key concepts applied:* Subnetting, TCP/IP stack behavior, Routing & Switching configuration, Network Segmentation (LAN/WAN), VPN/Firewall implementation, and System Hardening.
+  * *Key concepts applied:* Subnetting, TCP/IP stack behavior, Routing & Switching configuration, and Network Segmentation (LAN/WAN).
 
+### External Resources
 * **GeeksforGeeks:** Utilized as a primary theoretical reference to deepen my understanding of network fundamentals.
-
 * **AI Assistance (Gemini):** Used as a "Virtual Senior Engineer" to validate architectural decisions and streamline workflow.
   * *Key contributions:* Troubleshooting configuration errors, refining industry-standard best practices, and structuring professional documentation.
